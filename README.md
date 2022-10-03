@@ -22,13 +22,10 @@ There are 15 buttons on the EO_RC that are A,a,B,b and C,D,E,F and I,J,K,L and G
 To use the buttons, the pin should be Charecter as a value input using the if(val=='A'){} function, in which as the charecter we put a Letter  to be used in inpute mode and show on the board as output. Each button as a letter.
 
 # Video 
+Demo
 
 
-
-
-
-https://user-images.githubusercontent.com/72227750/193701163-7a2e39b5-fd1f-40bd-ba11-a660ea8e8a44.mp4
-
+https://user-images.githubusercontent.com/72227750/193701320-501257e8-e443-4702-8988-b3e2bf0357aa.mp4
 
 
 
