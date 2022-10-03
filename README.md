@@ -13,6 +13,6 @@ In Aduino C/C++ to To set it up, in your void setup you have to select a baud ra
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/72227750/193691312-62e0324e-1350-489f-83d2-afb9b4f1bb39.png)
 
-And in your void loop you can reda values and they will display on the EO_RC or you can send values to the arduino. E.g
+And in your void loop you can read values and they will display on the EO_RC or you can send values to the arduino. E.g
 
 ![Screenshot (143)](https://user-images.githubusercontent.com/72227750/193693958-fad500d4-6d36-432f-a81d-8c4db93e7859.png)
