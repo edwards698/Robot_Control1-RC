@@ -21,6 +21,17 @@ And in your void loop you can read values and they will display on the EO_RC or 
 There are 15 buttons on the EO_RC that are A,a,B,b and C,D,E,F and I,J,K,L and G,H,I and M. All buttons have been equipped with RC filters, thanks to which the readings are stable and there is no need to program the inputs in order to avoid the so-called. 
 To use the buttons, the pin should be Charecter as a value input using the if(val=='A'){} function, in which as the charecter we put a Letter  to be used in inpute mode and show on the board as output. Each button as a letter.
 
+# Video 
+
+
+
+
+
+https://user-images.githubusercontent.com/72227750/193701163-7a2e39b5-fd1f-40bd-ba11-a660ea8e8a44.mp4
+
+
+
+
 #Diagram 
 
 ![Screenshot (145)](https://user-images.githubusercontent.com/72227750/193697946-e9f1bc78-5fed-487e-936e-4ebd2d6e3637.png)
