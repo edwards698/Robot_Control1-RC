@@ -16,3 +16,11 @@ In Aduino C/C++ to To set it up, in your void setup you have to select a baud ra
 And in your void loop you can read values and they will display on the EO_RC or you can send values to the arduino. E.g
 
 ![Screenshot (143)](https://user-images.githubusercontent.com/72227750/193693958-fad500d4-6d36-432f-a81d-8c4db93e7859.png)
+
+
+There are 15 buttons on the EO_RC that are A,a,B,b and C,D,E,F and I,J,K,L and G,H,I and M. All buttons have been equipped with RC filters, thanks to which the readings are stable and there is no need to program the inputs in order to avoid the so-called. 
+To use the buttons, the pin should be Charecter as a value input using the if(val=='A'){} function, in which as the charecter we put a Letter  to be used in inpute mode and show on the board as output. Each button as a letter.
+
+#Diagram 
+
+![Screenshot (145)](https://user-images.githubusercontent.com/72227750/193697946-e9f1bc78-5fed-487e-936e-4ebd2d6e3637.png)
