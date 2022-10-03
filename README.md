@@ -12,3 +12,7 @@ Serial Data is sent over a single wire (but usually travels over USB in our case
 In Aduino C/C++ to To set it up, in your void setup you have to select a baud rate which is basically the rate at which the data will be transferred and that has to match the rate set in the serial monitor window. E.g
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/72227750/193691312-62e0324e-1350-489f-83d2-afb9b4f1bb39.png)
+
+And in your void loop you can print values and they will display on the serial monitor or you can send values to the arduino. E.g
+
+![Screenshot (141)](https://user-images.githubusercontent.com/72227750/193692657-590aff7a-b82b-4f51-9c9d-f606acc2edad.png)
