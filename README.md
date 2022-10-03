@@ -3,3 +3,12 @@ EO-RC is a Desktop RC remote that controls a great number of AVR Microcontroller
 
 #                                                              EO_RC Diagram
 ![Screenshot (137)](https://user-images.githubusercontent.com/72227750/193684569-91009c61-b7a6-4eec-a12b-6bbc42e22785.png)
+
+
+# EO_RC Serial Communicate
+The EO_RC has a feature that can be a great help in dubugging sketches or controlling AVR Microcontroller from your Computer. The EO_RC is Desktop that communicates by receiving and sending Serial Data.
+Serial Data is sent over a single wire (but usually travels over USB in our case) and consists of a series of 1's and 0's sent over the wire. Data can be sent in both directions (In our case on two wires).
+
+In Aduino C/C++ to To set it up, in your void setup you have to select a baud rate which is basically the rate at which the data will be transferred and that has to match the rate set in the serial monitor window. E.g
+
+![Screenshot (139)](https://user-images.githubusercontent.com/72227750/193691312-62e0324e-1350-489f-83d2-afb9b4f1bb39.png)
