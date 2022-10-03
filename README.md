@@ -28,7 +28,6 @@ To use the buttons, the pin should be Charecter as a value input using the if(va
 # We Build and Inspire
 
 
-
-https://user-images.githubusercontent.com/72227750/193698791-fb146057-8d89-4197-b44b-1c188ac2bcda.mp4
+https://user-images.githubusercontent.com/72227750/193698923-0fa79c2f-1747-476a-96d8-9e508dd0174a.mp4
 
 
